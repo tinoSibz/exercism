@@ -20,26 +20,3 @@ If everything goes well, you will be ready to fetch your first real exercise.
 
 [hello-world]: https://en.wikipedia.org/wiki/%22Hello,_world!%22_program
 
-## Source
-
-### Created by
-
-- @k4rtik
-
-### Contributed to by
-
-- @bitfield
-- @ekingery
-- @ferhatelmas
-- @hilary
-- @kytrinyx
-- @leenipper
-- @petertseng
-- @robphoenix
-- @SebastianKristof
-- @sebito91
-- @tleen
-
-### Based on
-
-This is an exercise to introduce users to using Exercism - https://en.wikipedia.org/wiki/%22Hello,_world!%22_program
